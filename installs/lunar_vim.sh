@@ -1,5 +1,6 @@
 #!/bin/bash
 # install LunarVim
+# Reference: https://www.lunarvim.org/docs/installation
 read -p ":: Did you connect to Int? [Y/n]: " input
 if [[ $input = "" ]]; then
   input="Y"
