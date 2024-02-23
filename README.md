@@ -1,5 +1,8 @@
 # dotfiles
-there is my archlinux dotfiles
-list:
+一些dotfiles
+##列表
     hyperland.conf
+    kitty.confarchlinux 
+    .zshrc
     fontconfig.conf
+    wlsunset
